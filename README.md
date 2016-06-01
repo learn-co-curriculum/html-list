@@ -4,7 +4,7 @@
 
 In this lesson we will do a quick review of HTML lists from the video lecture in the prior lesson.
 
-## What's Covered in This Lesson 
+## What's Covered in This Lesson
 
 1. Unordered List
 2. Ordered List
@@ -23,7 +23,7 @@ Lists allow us to group text into a structure that ties their meaning together i
 </ol>
 ```
 
-Ordered lists appear as numeric lists with numbers identifying each list item.
+Ordered lists by default appear as numeric lists with numbers identifying each list item.
 
 #### Unordered List
 
@@ -34,7 +34,7 @@ Ordered lists appear as numeric lists with numbers identifying each list item.
 </ul>
 ```
 
-Unordered lists appear as bulleted lists with bullets identifying each list item.
+Unordered lists by default appear as bulleted lists with bullets identifying each list item.
 
 #### Definition List
 
@@ -54,7 +54,7 @@ Definition lists display similar to a traditional dictionary allowing us to stat
 - HTML text can be formatted using a variety of lists.
 - An unordered list uses parent `<ul>` element and produces bulleted `<li>` list items.
 - An ordered list uses parent `<ol>` element and produces numbered `<li>` list items.
-- A Definition list uses parent `<dl>` element and produces a list of terms `<dt>` and their corresponding `<dd>` definitions. 
+- A definition list uses parent `<dl>` element and produces a list of terms `<dt>` and their corresponding `<dd>` definitions.
 
 ## Resources
 
